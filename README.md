@@ -1,4 +1,4 @@
-# AlphabetSOUP
+# command line print BASIC
 # includes header library functions
 
 # declares variables as integer
